@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubSearchQuery</string>
+    <string name="search">Enter your technology</string>
+    <string name="submit">Submit</string>
+</resources>
